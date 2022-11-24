@@ -1,6 +1,6 @@
 <template>
   <div class="w-full h-full flex justify-center items-center">
-    <div class="w-full h-full grid grid-cols-3 place-items-stretch">
+    <div class="grid grid-cols-3 place-items-stretch">
       <div class="flex items-center justify-center border-r-2 border-b-2">1</div>
       <div class="flex items-center justify-center border-x-2 border-b-2">2</div>
       <div class="flex items-center justify-center border-l-2 border-b-2">3</div>
